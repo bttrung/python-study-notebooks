@@ -1,1 +1,7 @@
-
+- [Python coding convention](https://www.python.org/dev/peps/pep-0008/)
+- [Arimetic Operators](https://github.com/bttrung/python-study/blob/master/basic/Arithmetic_Operators.ipynb)
+- [Variables and Assignment](https://github.com/bttrung/python-study/blob/master/basic/2_Variables_and_Assignment_Operators.ipynb)
+- [Integers and Floats](https://github.com/bttrung/python-study/blob/master/basic/3_Integers_and_Floats.ipynb)
+- [Boolean and Logical Operators](https://github.com/bttrung/python-study/blob/master/basic/4_Boolean_Comparison_and_Logical_Operators.ipynb)
+- [Strings](https://github.com/bttrung/python-study/blob/master/basic/5_Strings.ipynb)
+- [Type and Type Conversion](https://github.com/bttrung/python-study/blob/master/basic/6_Type_and_Type_Conversion.ipynb)
