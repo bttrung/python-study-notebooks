@@ -5,3 +5,7 @@
 - [Boolean and Logical Operators](https://github.com/bttrung/python-study/blob/master/basic/4_Boolean_Comparison_and_Logical_Operators.ipynb)
 - [Strings](https://github.com/bttrung/python-study/blob/master/basic/5_Strings.ipynb)
 - [Type and Type Conversion](https://github.com/bttrung/python-study/blob/master/basic/6_Type_and_Type_Conversion.ipynb)
+- [List](https://github.com/bttrung/python-study/blob/master/basic/7_List_and_Membership_Operators.ipynb)
+- [Tuples](https://github.com/bttrung/python-study/blob/master/basic/8_Tuples.ipynb)
+- [Set](https://github.com/bttrung/python-study/blob/master/basic/9_Set.ipynb)
+- [Dictionaries](https://github.com/bttrung/python-study/blob/master/basic/10_Dictionaries.ipynb)
