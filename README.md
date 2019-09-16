@@ -1,4 +1,5 @@
 # Python Study Notebooks
 
 - [Basic Python](https://github.com/bttrung/python-study-notebooks/tree/master/basic)
-- [Numpy](https://github.com/bttrung/python-study-notebooks/tree/master/numpy)
+- [Numpy - adding support for large, multi-dimentional arrays and matrixes](https://github.com/bttrung/python-study-notebooks/tree/master/numpy)
+- [Pandas - a data manipulation and analysis tool](https://github.com/bttrung/python-study-notebooks/tree/master/pandas)
