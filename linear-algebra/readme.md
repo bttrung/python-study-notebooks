@@ -5,8 +5,7 @@
 - [3blue1brown youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 
-## Definition
-- 
+## Definitions
 - Linear combination: is a multiplication of a scalar to a variable and addition of those terms
 - The "span" of vector v and w is the set of all their linear combinations: av + bw
 - Linear Dependent: when one vector can be defined as a linear combination of the other vectors, they are a set of linearly dependent vectors
